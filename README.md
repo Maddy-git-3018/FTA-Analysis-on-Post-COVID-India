@@ -77,9 +77,6 @@ These insights can aid **policy makers** and **tourism planners** in boosting In
 
 ---
 
-## 📂 Project Structure
-
----
 
 ## ✅ Future Work
 - Build an interactive dashboard using Power BI or Tableau (In Progress).
